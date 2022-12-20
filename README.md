@@ -1,0 +1,2 @@
+# firecast
+Broadcast Firestore events
