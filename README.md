@@ -1,2 +1,3 @@
 # firecast
-Broadcast Firestore events
+
+Cloud Function for broadcasting Firestore events
